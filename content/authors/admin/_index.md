@@ -135,7 +135,7 @@ skills:
       - name: AWS
         description: ''
         percent: 75
-        icon: devicon/amazonwebservices
+        icon: devicon/amazonwebservices/amazonwebservices-original-wordmark
 
   - name: Data Visualization and Databases
     items:
