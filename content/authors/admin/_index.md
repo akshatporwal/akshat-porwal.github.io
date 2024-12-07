@@ -108,7 +108,7 @@ skills:
       - name: Jupyter Notebook
         description: ''
         percent: 95
-        icon: notebook
+        icon: devicon/jupyter-plain-wordmark
       - name: TensorFlow
         description: ''
         percent: 80
