@@ -77,9 +77,7 @@ work:
     summary: |
       Responsibilities include:
       - Spearheaded predictive modeling initiatives, leveraging Python and SQL for regression and multivariate analyses, which improved marketing analytics and drove a 15% increase in conversion rates through actionable insights.
-      - Directed the deployment and management of AWS-based ML infrastructure, achieving a 30% reduction in deployment time, with CI/CD pipelines ensuring robust version control and streamlined testing.
-      - Analyzed customer behaviors using clustering algorithms, enabling effective segmentation and refinement of marketing strategies, complemented by insightful visualizations via Power BI, Matplotlib, and Seaborn.
-    - Orchestrated the implementation of Snowflake retail solutions, improving inventory accuracy by 20% and customer satisfaction by 15%, while streamlining ETL processes and optimizing SQL queries for efficient data integration.
+
 
   - position: Data Scientist
     company_name: Aspire Fintech
