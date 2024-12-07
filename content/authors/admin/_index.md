@@ -104,7 +104,7 @@ skills:
       - name: R
         description: ''
         percent: 85
-        icon: code-bracket
+        icon: devicon/rstudio
       - name: Jupyter Notebook
         description: ''
         percent: 95
@@ -112,55 +112,55 @@ skills:
       - name: TensorFlow
         description: ''
         percent: 80
-        icon: brain
+        icon: devicon/tensorflow
       - name: Scikit-learn
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: devicon/scikit-learn
 
   - name: Machine Learning and Big Data
     items:
       - name: Machine Learning
         description: 'Regression, Decision Trees, SVM, CNN, NLP'
         percent: 95
-        icon: brain
+        icon: hero/brain
       - name: Apache Spark
         description: ''
         percent: 85
-        icon: server
+        icon: devicon/apache
       - name: Hadoop
         description: ''
         percent: 80
-        icon: server
+        icon: devicon/hadoop
       - name: AWS
         description: ''
         percent: 75
-        icon: cloud
+        icon: devicon/amazonwebservices
 
   - name: Data Visualization and Databases
     items:
       - name: Tableau
         description: ''
         percent: 85
-        icon: chart-bar
+        icon: devicon/tableau
       - name: Power BI
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: custom/powerbi
       - name: SQL
         description: ''
         percent: 90
-        icon: database
+        icon: devicon/mysql
       - name: MongoDB
         description: ''
         percent: 75
-        icon: database
+        icon: devicon/mongodb
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Hindi
+    percent: 100
+  - name: French
     percent: 25
 awards:
   - title: Neural Networks and Deep Learning
