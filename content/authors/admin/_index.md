@@ -74,7 +74,7 @@ work:
     company_logo: ''
     date_start: 2024-01-08
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Spearheaded predictive modeling initiatives, leveraging Python and SQL for regression and multivariate analyses, which improved marketing analytics and drove a 15% increase in conversion rates through actionable insights.
       - Directed the deployment and management of AWS-based ML infrastructure, achieving a 30% reduction in deployment time, with CI/CD pipelines ensuring robust version control and streamlined testing.
