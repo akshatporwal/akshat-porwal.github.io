@@ -95,36 +95,66 @@ work:
 
       - Built log analysis workflows using Kafka and Spark to integrate microservices logs, providing dashboards for real-time system monitoring and anomaly detection, enhancing operational oversight.
 skills:
-  - name: Programming and Tools
+  - name: Data Science Frameworks and Tools
     items:
       - name: Python
-        description: ""
-        percent: 80
+        description: ''
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ""
-        percent: 100
-        icon: brain
-      - name: SQL
-        description: ""
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: Hiking
-        description: ""
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ""
+      - name: R
+        description: ''
+        percent: 85
+        icon: code-bracket
+      - name: Jupyter Notebook
+        description: ''
+        percent: 95
+        icon: notebook
+      - name: TensorFlow
+        description: ''
         percent: 80
-        icon: camera
+        icon: brain
+      - name: Scikit-learn
+        description: ''
+        percent: 90
+        icon: chart-bar
+
+  - name: Machine Learning and Big Data
+    items:
+      - name: Machine Learning
+        description: 'Regression, Decision Trees, SVM, CNN, NLP'
+        percent: 95
+        icon: brain
+      - name: Apache Spark
+        description: ''
+        percent: 85
+        icon: server
+      - name: Hadoop
+        description: ''
+        percent: 80
+        icon: server
+      - name: AWS
+        description: ''
+        percent: 75
+        icon: cloud
+
+  - name: Data Visualization and Databases
+    items:
+      - name: Tableau
+        description: ''
+        percent: 85
+        icon: chart-bar
+      - name: Power BI
+        description: ''
+        percent: 80
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 90
+        icon: database
+      - name: MongoDB
+        description: ''
+        percent: 75
+        icon: database
 languages:
   - name: English
     percent: 100
