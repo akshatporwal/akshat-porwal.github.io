@@ -111,47 +111,36 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Data Science Frameworks and Tools
+  - name: Programming and Tools
     items:
       - name: Python
         description: ''
-        percent: 90
-        icon: code-bracket
-      - name: R
-        description: ''
-        percent: 85
-        icon: code-bracket
-      - name: Jupyter Notebook
-        description: ''
-        percent: 95
-        icon: notebook
-      - name: TensorFlow
-        description: ''
         percent: 80
-        icon: brain
-      - name: Scikit-learn
+        icon: code-bracket
+      - name: Data Science
         description: ''
-        percent: 90
-        icon: chart-bar
-
-  - name: Machine Learning and Big Data
+        percent: 100
+        icon: brain
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
-      - name: Machine Learning
-        description: 'Regression, Decision Trees, SVM, CNN, NLP'
-        percent: 95
-        icon: brain
-      - name: Apache Spark
+      - name: Hiking
         description: ''
-        percent: 85
-        icon: server
-      - name: Hadoop
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: server
-      - name: AWS
-        description: ''
-        percent: 75
-        icon: cloud
+        icon: camera
 
 languages:
   - name: English
