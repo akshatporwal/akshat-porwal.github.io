@@ -100,7 +100,7 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: code-bracket
+        icon: devicon/python-original-wordmark
       - name: R
         description: ''
         percent: 85
