@@ -90,8 +90,7 @@ work:
       - Initiated process mining with pm4py to identify and mitigate application bottlenecks, optimizing loan workflows which enhanced customer satisfaction by 30% and increased processing efficiency by 25%.
       - Conducted risk profile analyses using metadata and data elements, employing the K Means Algorithm to effectively segment customers and precisely evaluate model performance.
       - Executed classification models using supervised learning algorithms such as Logistic Regression, Decision Trees, KNN, and Naive Bayes, enhancing predictive accuracy.
-      - Led A/B testing initiatives for the take-up rate model by modifying credit terms for targeted users and analyzing outcomes with logistic regression, which resulted in a 15% increase in product adoption rates and refined targeting strategies.
-
+      
 - position: Data Scientist
     company_name: Hexaware Technologies
     company_url: ''
