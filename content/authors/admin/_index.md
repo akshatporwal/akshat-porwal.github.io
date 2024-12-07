@@ -153,26 +153,6 @@ skills:
         percent: 75
         icon: cloud
 
-  - name: Data Visualization and Databases
-    items:
-      - name: Tableau
-        description: ''
-        percent: 85
-        icon: chart-bar
-      - name: Power BI
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 90
-        icon: database
-      - name: MongoDB
-        description: ''
-        percent: 75
-        icon: database
-
-
 languages:
   - name: English
     percent: 100
