@@ -32,7 +32,8 @@ education:
       GPA: 3.8/4.0
 
 
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Completed coursework in Statistical Learning, Applied Machine Learning, Data Mining, and Information Visualization, focusing on analytical techniques and practical applications. Served as a Teaching Assistant for the Information Visualization course under Prof. Eytan Adar, assisting a cohort of 90 students with course materials and visualization tools.
+
   - area: B.Tech. Computer Science
     institution: Symbiosis University
     date_start: 2018-08-01
@@ -123,7 +124,7 @@ skills:
       - name: Machine Learning
         description: 'Regression, Decision Trees, SVM, CNN, NLP'
         percent: 95
-        icon: hero/brain
+        icon: hero/sparkles
       - name: Apache Spark
         description: ''
         percent: 85
@@ -135,18 +136,18 @@ skills:
       - name: AWS
         description: ''
         percent: 75
-        icon: devicon/amazonwebservices/amazonwebservices-original-wordmark
+        icon: hero/cloud
 
   - name: Data Visualization and Databases
     items:
       - name: Tableau
         description: ''
         percent: 85
-        icon: devicon/tableau
+        icon: hero/chart-pie
       - name: Power BI
         description: ''
         percent: 80
-        icon: custom/powerbi
+        icon: hero/chart-bar
       - name: SQL
         description: ''
         percent: 90
@@ -204,8 +205,8 @@ awards:
       with web APIs, and building GUIs.
 
 ---
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI
-Lab. Her research interests include distributed robotics, mobile computing and
-programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor
-networks.
+I am a Data Scientist specializing in machine learning, predictive modeling, and data visualization. Currently, I work at Freddie Mac, where I lead initiatives in statistical modeling and machine learning, achieving impactful business outcomes such as a 15% increase in conversion rates and a 30% reduction in deployment time for data infrastructure.
+
+I hold a Master's degree in Data Science from the University of Michigan, Ann Arbor, and a Bachelor's degree in Computer Science from Symbiosis University. My expertise spans advanced analytics, cloud computing, and the application of machine learning techniques for customer segmentation, fraud detection, and marketing optimization. 
+
+I am passionate about leveraging data-driven insights to solve complex problems and drive innovation. My work integrates statistical rigor, technical proficiency, and a commitment to impactful results.
