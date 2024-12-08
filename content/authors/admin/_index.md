@@ -205,8 +205,8 @@ awards:
       with web APIs, and building GUIs.
 
 ---
-I am a Data Scientist specializing in machine learning, predictive modeling, and data visualization. Currently, I work at Freddie Mac, where I lead initiatives in statistical modeling and machine learning, achieving impactful business outcomes such as a 15% increase in conversion rates and a 30% reduction in deployment time for data infrastructure.
+I am a Data Scientist driven by the challenge of transforming complex data into actionable insights. At Freddie Mac, I lead initiatives that integrate machine learning, statistical modeling, and data visualization to address diverse business challenges, from optimizing customer analytics to enhancing fraud detection systems. My work emphasizes the seamless fusion of technical expertise with strategic thinking to deliver impactful solutions.
 
-I hold a Master's degree in Data Science from the University of Michigan, Ann Arbor, and a Bachelor's degree in Computer Science from Symbiosis University. My expertise spans advanced analytics, cloud computing, and the application of machine learning techniques for customer segmentation, fraud detection, and marketing optimization. 
+With a Master’s degree in Data Science from the University of Michigan, Ann Arbor, my academic and professional journey has equipped me with a versatile skill set. I am also deeply involved in research that explores innovative ways to leverage data for understanding societal trends and real-world decision-making, blending academic rigor with practical applications.
 
-I am passionate about leveraging data-driven insights to solve complex problems and drive innovation. My work integrates statistical rigor, technical proficiency, and a commitment to impactful results.
+I am passionate about pushing the boundaries of data science, crafting solutions that not only solve problems but also inspire new ways of thinking about the power of data.
