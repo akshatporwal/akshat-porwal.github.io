@@ -41,12 +41,12 @@ header:
 footer:
   copyright:
     notice: '© Akshat Porwal, 2025'
-    additional_text: ""
     license:
       enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
+  additional_text: ""
 
 # Localization
 locale:
