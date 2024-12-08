@@ -163,7 +163,7 @@ languages:
     percent: 100
   - name: French
     percent: 25
-certifications:
+awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: 2023-11-25
