@@ -15,10 +15,10 @@ profiles:
   - icon: at-symbol
     url: mailto:akshat@techjobmails.com
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/akshatporwal
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/akshatporwal
+  - icon: brands/github
+    url: https://github.com/akshatporwal
 interests:
   - Artificial Intelligence
   - Computational Linguistics
