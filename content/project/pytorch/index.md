@@ -1,13 +1,13 @@
 ---
-title: PyTorch
+title: Early Prediction of Sepsis in ICU Patients
 date: 2023-10-26
 external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
+  - HealthCareAI
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Predicting sepsis in ICU patients using clinical and demographic data, with a focus on addressing data imbalance and improving predictive accuracy for early detection.
 
 <!--more-->
