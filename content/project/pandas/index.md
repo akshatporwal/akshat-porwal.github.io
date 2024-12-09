@@ -1,7 +1,7 @@
 ---
 title: Forecasting International Flight Departures with ARIMA and Neural Networks
 date: 2023-12-23
-external_link: https://github.com/pandas-dev/pandas](https://github.com/akshatporwal/Flight-Predictive-Analysis-ARIMA-Neural-Networks)
+external_link: https://github.com/pandas-dev/pandas](https://github.com/akshatporwal/Flight-Predictive-Analysis-ARIMA-Neural-Networks
 tags:
   - Hugo
   - Wowchemy
