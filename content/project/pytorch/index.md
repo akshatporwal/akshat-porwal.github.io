@@ -1,6 +1,6 @@
 ---
 title: Early Prediction of Sepsis in ICU Patients
-date: 2023-10-26
+date: 2023-02-24
 external_link: https://github.com/akshatporwal/Early-Prediction-of-Sepsis
 tags:
   - HealthCareAI
