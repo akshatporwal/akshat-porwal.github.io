@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Demographics Through Names
+date: 2024-01-13
+external_link: https://github.com/akshatporwal/Age-Prediction-from-Naming-Trends
 tags:
-  - Hugo
+  - Sociolinguistics
   - Wowchemy
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Analyzing naming trends across decades and genders to predict age, this study uncovers the cultural and historical influences on names and their demographic significance. The findings provide insights into the relationship between naming practices and societal trends.
 
 <!--more-->
