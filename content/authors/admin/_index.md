@@ -51,7 +51,7 @@ work:
     company_name: University of Michigan
     company_url: ""
     company_logo: ""
-    date_start: 2024-01-08
+    date_start: 2023-04-01
     date_end: ""
     summary: >
       Responsibilities include:
