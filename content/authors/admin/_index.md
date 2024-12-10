@@ -48,7 +48,7 @@ education:
       - Database Management Systems
 work:
   - position: Research & Teaching Assistant
-    company_name: Freddie Mac
+    company_name: University of Michigan
     company_url: ""
     company_logo: ""
     date_start: 2024-01-08
@@ -61,7 +61,7 @@ work:
       - In Summer ’23, conducted Bayesian analysis with Prof. Dallas Card on 1,000+ graduate student publications, identifying trends in computer science academic productivity.
   - position: Data Scientist
     company_name: Freddie Mac
-    company_url: ""
+    company_url: "https://www.freddiemac.com/"
     company_logo: ""
     date_start: 2024-01-08
     date_end: ""
