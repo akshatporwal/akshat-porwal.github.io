@@ -57,8 +57,11 @@ work:
       Responsibilities include:
     
       - Expanding research with Prof. Ceren Budak since Winter ’24 to analyze subscription and donation behaviors across 5K+ news platforms, developing data strategies to understand user engagement and financial trends.
-      - Developed and deployed a real-time classifier to identify articles on local elections, leveraging XGBoost with TF-IDF and numeric features after optimizing a BERT-based model. Implemented paragraph-level aggregation for article classification and coordinated production handoff, enabling seamless use by newsroom partners.   
-      - Served as a Teaching Assistant for Information Visualization with Prof. Eytan Adar, managing a cohort of 90. 
+        
+      - Developed and deployed a real-time classifier to identify articles on local elections, leveraging XGBoost with TF-IDF and numeric features after optimizing a BERT-based model. Implemented paragraph-level aggregation for article classification and coordinated production handoff, enabling seamless use by newsroom partners.
+        
+      - Served as a Teaching Assistant for Information Visualization with Prof. Eytan Adar, managing a cohort of 90.
+        
       - In Summer ’23, conducted Bayesian analysis with Prof. Dallas Card on 1,000+ graduate student publications, identifying trends in computer science academic productivity.
   - position: Data Scientist
     company_name: Freddie Mac
